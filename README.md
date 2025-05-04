@@ -25,3 +25,10 @@ Projeto de um sistema bancário digital desenvolvido em Java, aplicando os princ
 
 ### Pré-requisitos
 - JDK 21 instalado
+
+### Clone o repositório
+```bash
+git clone https://github.com/seu-usuario/banco-digital-java.git
+cd banco-digital-java
+
+```
