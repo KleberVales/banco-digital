@@ -6,3 +6,10 @@ Projeto de um sistema bancário digital desenvolvido em Java, aplicando os princ
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 📌 Funcionalidades
+
+- ✅ Criação de contas (Corrente e Poupança)
+- ✅ Operações bancárias (Depósito, Saque, Transferência)
+- ✅ Sistema de autenticação
+- ✅ Geração de extratos
+- ✅ Aplicação de rendimento para poupança
+- ✅ Listagem de todas as contas do banco
