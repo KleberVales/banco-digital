@@ -15,3 +15,8 @@ Projeto de um sistema bancário digital desenvolvido em Java, aplicando os princ
 - ✅ Listagem de todas as contas do banco
 
 ## 🛠️ Tecnologias e Conceitos
+
+- **Java 17+** - Linguagem de programação
+- **POO** - Abstração, Encapsulamento, Herança, Polimorfismo
+- **Design Patterns** - Strategy (para operações bancárias)
+- **Clean Code** - Boas práticas de desenvolvimento
