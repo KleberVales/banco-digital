@@ -16,7 +16,7 @@ Projeto de um sistema bancário digital desenvolvido em Java, aplicando os princ
 
 ## 🛠️ Tecnologias e Conceitos
 
-- **Java 17+** - Linguagem de programação
+- **Java 21** - Linguagem de programação
 - **POO** - Abstração, Encapsulamento, Herança, Polimorfismo
 - **Design Patterns** - Strategy (para operações bancárias)
 - **Clean Code** - Boas práticas de desenvolvimento
@@ -28,7 +28,7 @@ Projeto de um sistema bancário digital desenvolvido em Java, aplicando os princ
 
 ### Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/banco-digital-java.git
-cd banco-digital-java
+git clone https://github.com/KleberVales/banco-digital.git
+cd banco-digital
 
 ```
