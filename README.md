@@ -22,3 +22,6 @@ Projeto de um sistema bancário digital desenvolvido em Java, aplicando os princ
 - **Clean Code** - Boas práticas de desenvolvimento
 
 ## ⚙️ Como Executar
+
+### Pré-requisitos
+- JDK 21 instalado
