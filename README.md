@@ -20,3 +20,5 @@ Projeto de um sistema bancário digital desenvolvido em Java, aplicando os princ
 - **POO** - Abstração, Encapsulamento, Herança, Polimorfismo
 - **Design Patterns** - Strategy (para operações bancárias)
 - **Clean Code** - Boas práticas de desenvolvimento
+
+## ⚙️ Como Executar
