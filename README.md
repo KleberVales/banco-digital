@@ -13,3 +13,5 @@ Projeto de um sistema bancário digital desenvolvido em Java, aplicando os princ
 - ✅ Geração de extratos
 - ✅ Aplicação de rendimento para poupança
 - ✅ Listagem de todas as contas do banco
+
+## 🛠️ Tecnologias e Conceitos
